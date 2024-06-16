@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.hr_sep{
+    border: 0.2px solid rgba(154, 151, 158, 0.5);
+}
